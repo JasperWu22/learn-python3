@@ -6,7 +6,17 @@ sum = 0
 n = 1
 while n <= 100:
     sum = sum + n
-    n = n + 1
+    n = n + 9
+print(sum)
+
+while n <= -100:
+    sum = sum - n
+    n = n + 9
+print(sum)
+
+while n <= 100:
+    sum = sum / n
+    n = n + 9
 print(sum)
 
 # 计算1x2x3x...x100:
