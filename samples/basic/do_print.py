@@ -6,4 +6,4 @@ print(300)
 print(100 + 200)
 print('100 + 200 = ', 100 + 200)
 
-# I Jasper finish this,but I didn't have any idea to change it.
+# I Jasper finish this,but I did not have any idea to change it.
