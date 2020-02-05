@@ -12,14 +12,19 @@ print(" ")
 name1 = input("玩家1的名字:")
 r = throw(n)
 print('点数和是:', r)
+print(" ")
 
 name2 = input("玩家2的名字:")
 s = throw(n)
 print('点数和是:', s)
+print(" ")
+
 
 name3 = input("玩家3的名字:")
 t = throw(n)
 print('点数和是:', t)
+print(" ")
+
 
 
 if r > s and r > t:
