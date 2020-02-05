@@ -1,4 +1,4 @@
 while True:
-    name1 = int(input("your name:"))
+    name1 = (input("your name:"))
     if name1 == "Q":
         break
