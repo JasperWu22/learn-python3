@@ -7,8 +7,9 @@ d = {
     'Tracy': 85,
     'Jasper': 100,
 }
-print('d[\'Michael\'] =', d['Michael'])
-print('d[\'Bob\'] =', d['Bob'])
-print('d[\'Tracy\'] =', d['Tracy'])
-print('d[\'Jasper\'] =', d['Jasper'])
-print('d.get(\'Thomas\', -1) =', d.get('Thomas', -1))
+
+# print('d[\'Michael\'] =', d['Michael'])
+# print('d[\'Bob\'] =', d['Bob'])
+# print('d[\'Tracy\'] =', d['Tracy'])
+# print('d[\'Jasper\'] =', d['Jasper'])
+# print('d.get(\'Thomas\', -1) =', d.get('Thomas', -1))
