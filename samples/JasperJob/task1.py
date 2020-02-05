@@ -21,6 +21,7 @@ name3 = input("玩家3的名字:")
 t = throw(n)
 print('点数和是:', t)
 
+
 if r > s and r > t:
     print(name1, '赢了')
 elif s > r and s > t:
