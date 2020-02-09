@@ -1,9 +1,8 @@
 import random
 a = random.randint(1, 15)
-time = 0
+time = 1
 while True:
     d = int(input('输入距离:'))
-    time += 1
     if d == a:
         print('猜对了')
         print('你用了', time, "次去击中这个数字", a, "!")
