@@ -2,7 +2,6 @@ import turtle
 t = turtle.Pen()
 t.penup()
 turtle.bgcolor("black")
-sides = int(turtle.numinput("How many sides", "How many sides do you want? (2 ~ 6)", 4, 2, 6))
 colors = ["red", "orange", "yellow", "green", "blue", "purple", "gold"]
 t.pendown()
 def draw_cube(num):
